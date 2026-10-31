@@ -126,11 +126,11 @@ plt.tight_layout()
 plt.show()
 ```
 OUTPUT:
+<img width="1036" height="547" alt="image" src="https://github.com/user-attachments/assets/13373c78-5c90-4dd1-a9e7-5634607665a8" />
 
-<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/cf5dd4b8-45a6-4c64-ae0a-8fc3f7260c96" />
+<img width="993" height="528" alt="image" src="https://github.com/user-attachments/assets/dc611c66-009a-4522-aa25-0dfcce1cd01a" />
 
-<img width="993" height="528" alt="image" src="https://github.com/user-attachments/assets/eaed4164-a526-457c-b264-0ed043212618" />
-
+<img width="993" height="528" alt="image" src="https://github.com/user-attachments/assets/25252f67-1cf9-4baa-938b-4673213a3a60" />
 
 
 
